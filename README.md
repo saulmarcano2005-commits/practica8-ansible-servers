@@ -24,3 +24,7 @@ En esta práctica se utilizaron contenedores Docker para crear 5 servidores Ubun
 Docker
 Ansible
 Ubuntu
+
+
+
+docker compose up -d
